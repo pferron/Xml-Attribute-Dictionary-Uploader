@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AttributeDictionary xmlns="http://www.axiomatics.com/config/acs/attributedictionary/v1">
+	<Attribute>
+		<Name>Test1</Name>
+		<Namespace>automatically_imported</Namespace>
+		<Id>com.acme.user.department</Id>
+		<Description/>
+		<Category>urn:oasis:names:tc:xacml:1.0:subject-category:access-subject</Category>
+		<Datatype>http://www.w3.org/2001/XMLSchema#string</Datatype>
+	</Attribute>
+	<Attribute>
+		<Name>Test2</Name>
+		<Namespace>automatically_imported</Namespace>
+		<Id>com.acme.user.role</Id>
+		<Description/>
+		<Category>urn:oasis:names:tc:xacml:1.0:subject-category:access-subject</Category>
+		<Datatype>http://www.w3.org/2001/XMLSchema#string</Datatype>
+	</Attribute>
+</AttributeDictionary>
